@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031890434765",
+    "project_id": "foodeliverytote",
+    "storage_bucket": "foodeliverytote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031890434765:android:0d93eb157a7a83f7ea0784",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhT7nmFoS5xLdTYnl9DmwWaOMPX0Q4Ex8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
