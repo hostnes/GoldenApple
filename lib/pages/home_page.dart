@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import '../comonents/my_description_box.dart';
 import '../comonents/my_drawer.dart';
@@ -62,7 +61,7 @@ class _HomePageState extends State<HomePage>
   }
 
   final List<String> acts = [
-    "http://127.0.0.1:8000/media/compatibility/20.png"
+    "https://basket-12.wbbasket.ru/vol1802/part180270/180270289/images/c246x328/1.webp"
   ];
   List<Widget> getCosmeticItemsInCategory() {
     return fullMenu.map((category) {
